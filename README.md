@@ -1,3 +1,3 @@
 # ncl
 
-Package ```ncl``` is a parser for NGINX configuration files.
+Package ```ncl``` provides a lexer and parser for NGINX configuration files.
